@@ -1,0 +1,165 @@
+{
+  "appetizers": [
+    {
+      "id": "app_1",
+      "name": "Crispy Paneer Tikka",
+      "description": "Marinated cottage cheese grilled to perfection with bell peppers and onions",
+      "price": 250,
+      "category": "appetizer",
+      "available": true,
+      "stock": 20
+    },
+    {
+      "id": "app_2",
+      "name": "Vegetable Spring Rolls",
+      "description": "Crispy rolls filled with fresh vegetables and served with sweet chili sauce",
+      "price": 180,
+      "category": "appetizer",
+      "available": true,
+      "stock": 25
+    },
+    {
+      "id": "app_3",
+      "name": "Corn Cheese Balls",
+      "description": "Golden fried corn and cheese balls with a crispy exterior",
+      "price": 200,
+      "category": "appetizer",
+      "available": true,
+      "stock": 15
+    }
+  ],
+  "main_course": [
+    {
+      "id": "main_1",
+      "name": "Paneer Butter Masala",
+      "description": "Cottage cheese in rich tomato and cashew gravy with butter",
+      "price": 320,
+      "category": "main_course",
+      "available": true,
+      "stock": 18
+    },
+    {
+      "id": "main_2",
+      "name": "Vegetable Biryani",
+      "description": "Fragrant basmati rice cooked with mixed vegetables and aromatic spices",
+      "price": 280,
+      "category": "main_course",
+      "available": true,
+      "stock": 20
+    },
+    {
+      "id": "main_3",
+      "name": "Dal Makhani",
+      "description": "Slow-cooked black lentils in creamy tomato butter sauce",
+      "price": 240,
+      "category": "main_course",
+      "available": true,
+      "stock": 22
+    },
+    {
+      "id": "main_4",
+      "name": "Malai Kofta",
+      "description": "Deep-fried vegetable and paneer dumplings in rich cashew gravy",
+      "price": 300,
+      "category": "main_course",
+      "available": true,
+      "stock": 12
+    },
+    {
+      "id": "main_5",
+      "name": "Palak Paneer",
+      "description": "Cottage cheese cubes in smooth spinach gravy with spices",
+      "price": 290,
+      "category": "main_course",
+      "available": true,
+      "stock": 16
+    }
+  ],
+  "breads": [
+    {
+      "id": "bread_1",
+      "name": "Butter Naan",
+      "description": "Soft leavened bread brushed with butter",
+      "price": 60,
+      "category": "bread",
+      "available": true,
+      "stock": 30
+    },
+    {
+      "id": "bread_2",
+      "name": "Garlic Naan",
+      "description": "Naan topped with fresh garlic and coriander",
+      "price": 70,
+      "category": "bread",
+      "available": true,
+      "stock": 25
+    },
+    {
+      "id": "bread_3",
+      "name": "Tandoori Roti",
+      "description": "Whole wheat bread baked in clay oven",
+      "price": 40,
+      "category": "bread",
+      "available": true,
+      "stock": 35
+    }
+  ],
+  "desserts": [
+    {
+      "id": "dessert_1",
+      "name": "Gulab Jamun",
+      "description": "Soft milk solids dumplings in rose-flavored sugar syrup",
+      "price": 120,
+      "category": "dessert",
+      "available": true,
+      "stock": 20
+    },
+    {
+      "id": "dessert_2",
+      "name": "Rasmalai",
+      "description": "Soft cheese patties soaked in sweetened cardamom milk",
+      "price": 150,
+      "category": "dessert",
+      "available": true,
+      "stock": 15
+    },
+    {
+      "id": "dessert_3",
+      "name": "Kesar Pista Kulfi",
+      "description": "Traditional Indian ice cream with saffron and pistachios",
+      "price": 130,
+      "category": "dessert",
+      "available": true,
+      "stock": 18
+    }
+  ],
+  "beverages": [
+    {
+      "id": "bev_1",
+      "name": "Masala Chai",
+      "description": "Spiced Indian tea with milk",
+      "price": 50,
+      "category": "beverage",
+      "available": true,
+      "stock": 40
+    },
+    {
+      "id": "bev_2",
+      "name": "Mango Lassi",
+      "description": "Sweet yogurt drink with mango pulp",
+      "price": 90,
+      "category": "beverage",
+      "available": true,
+      "stock": 25
+    },
+    {
+      "id": "bev_3",
+      "name": "Fresh Lime Soda",
+      "description": "Refreshing lime with soda water",
+      "price": 60,
+      "category": "beverage",
+      "available": true,
+      "stock": 30
+    }
+  ]
+}
